@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there this is Sauradip and Welcome to my GitHub Repository. Here is where i talk 😄
+![](https://komarev.com/ghpvc/?username=sauradip&label=PROFILE+VIEWS)
 <!--
 **sauradip/sauradip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
